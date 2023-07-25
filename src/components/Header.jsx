@@ -2,7 +2,7 @@ import React from 'react';
 
 function Header() {
    return <div><header>
-        <h1>Notesify </h1>
+        <h1>Note-It </h1>
    </header>
     </div>
 }
